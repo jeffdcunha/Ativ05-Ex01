@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ativ05Ex01</string>
+    <string name="s_dados">Tipo de dado:</string>
+    <string name="s_qtd">Quantidade de dados:</string>
+    <string name="s_qtdFaces">Quantidade de faces:</string>
+    <string name="s_1">1 dado</string>
+    <string name="s_2">2 dados</string>
+    <string name="s_3">3 dados</string>
+    <string name="s_btn">Rodar os Dados</string>
+
+</resources>
